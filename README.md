@@ -1,21 +1,6 @@
 # Data Analysis Portfolio
 ### Technical skills: PostgreSQL, Python, R, BI tools
-<table width="100%">
-  <tr>
-    <!-- Avatar on the left, 120px wide -->
-    <td align="left" width="25%">
-      <img
-        src="assets/profile-round.png"
-        alt="Svetlana Fuks"
-        width="120"
-      />
-    </td>
-    <!-- Your title & skills on the right -->
-    <td valign="middle">
-      <h1>Data Analysis Portfolio</h1>
-    </td>
-  </tr>
-</table>
+
 ### Work Experience
 - Market Research and BI Analyst @Arhea
 - Procurement Analyst @Novartis
