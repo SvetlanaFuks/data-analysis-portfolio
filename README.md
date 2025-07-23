@@ -16,8 +16,8 @@ Hi there! I’m Svetlana—a digital project delivery whiz, product-driven think
 
 
 ### Honors&Awards
-Prešern Award for Master Thesis, [Understanding Perspectives on the Gender Pay Gap in the Tech Industry] (https://plus.cobiss.net/cobiss/si/en/bib/167324163)
+Prešern Award for Master Thesis, Understanding Perspectives on the Gender Pay Gap in the Tech Industry (https://plus.cobiss.net/cobiss/si/en/bib/167324163)
 
 ### Publications
-- [BLOCKCHAIN-ENABLED MICRO CREDENTIALING: ENHANCING TRUST, MOBILITY, AND INTEROPERABILITY IN LIFELONG LEARNING (EDULEARN25 Proceedings · 2025)](https://library.iated.org/view/JUSIC2025BLO) 
-- [METAVERSING THE CORPORATE STRATEGY: The opportunities and challenges of digital transformation (Casnik Finance, d. o. o. · 2022)](https://doi.org/your-link-here](https://plus.cobiss.net/cobiss/si/sl/bib/130387971)
+- BLOCKCHAIN-ENABLED MICRO CREDENTIALING: ENHANCING TRUST, MOBILITY, AND INTEROPERABILITY IN LIFELONG LEARNING (EDULEARN25 Proceedings · 2025)(https://library.iated.org/view/JUSIC2025BLO) 
+- METAVERSING THE CORPORATE STRATEGY: The opportunities and challenges of digital transformation (Casnik Finance, d. o. o. · 2022)(https://doi.org/your-link-here](https://plus.cobiss.net/cobiss/si/sl/bib/130387971)
