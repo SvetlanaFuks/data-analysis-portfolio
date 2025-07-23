@@ -1,3 +1,20 @@
+<table width="100%">
+  <tr>
+    <td align="left" width="25%">
+      <img
+        src="https://raw.githubusercontent.com/SvetlanaFuks/data-analysis-portfolio/main/1729069720889.jpg"
+        alt="Svetlana Fuks"
+        width="120"
+        style="border-radius: 50%;"
+      />
+    </td>
+    <td valign="middle">
+      # Data Analysis Portfolio  
+      ### Technical skills: PostgreSQL, Python, R, BI tools
+    </td>
+  </tr>
+</table>
+
 # Data Analysis Portfolio
 ### Technical skills: PostgreSQL, Python, R, BI tools
 
