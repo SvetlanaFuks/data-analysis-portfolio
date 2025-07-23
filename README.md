@@ -7,8 +7,8 @@
 - Market Research Analyst @Canoe Federation of Slovenia
 
 ### Education 
-<u> M.A Business and Organization Management,Technology&Innovation Management track     University of Ljubljana (2021-2023) </u>
-<u> B.A. International Relations                                                        Baku Slavic University  (2009-2013) </u>
+- <u> M.A Business and Organization Management,Technology&Innovation Management track     University of Ljubljana (2021-2023) </u>
+- <u> B.A. International Relations                                                        Baku Slavic University  (2009-2013) </u>
 
 ### Honors&Awards
 Prešern Award for Master Thesis
