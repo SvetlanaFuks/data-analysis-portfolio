@@ -7,7 +7,7 @@
       <h1>Data Analysis Portfolio</h1>
       <p>### Technical skills: PostgreSQL, Python, R, BI tools</p>
     </td>
-    <td align="right">
+    <td align="left">
       <!-- Small, pre‑cropped circle -->
       <img
         src="assets/profile-round.png"
