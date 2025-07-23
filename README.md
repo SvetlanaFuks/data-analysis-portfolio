@@ -1,4 +1,5 @@
-# Svetlana-Fuks-data-analysis-portfolio
+# Data Analysis Portfolio
+### Technical skills: PostgreSQL, Python, R, BI tools
 
 ### Work Experience
 - Market Research and BI Analyst @Arhea
@@ -6,7 +7,8 @@
 - Market Research Analyst @Canoe Federation of Slovenia
 
 ### Education 
-Master of Business and Organization Management,Technology&Innovation Management track
+<u> M.A Business and Organization Management,Technology&Innovation Management track     University of Ljubljana (2021-2023) </u>
+<u> B.A. International Relations                                                        Baku Slavic University  (2009-2013) </u>
 
 ### Honors&Awards
 Prešern Award for Master Thesis
