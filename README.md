@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Data Analyst
 ### Technical skills: PostgreSQL, Python, R, BI tools
 
 ### About me
