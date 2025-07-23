@@ -2,18 +2,18 @@
 ### Technical skills: PostgreSQL, Python, R, BI tools
 <table width="100%">
   <tr>
-    <td>
-      <!-- Your big title -->
-      <h1>Data Analysis Portfolio</h1>
-      <p>### Technical skills: PostgreSQL, Python, R, BI tools</p>
-    </td>
-    <td align="left">
-      <!-- Small, pre‑cropped circle -->
+    <!-- Avatar on the left, 120px wide -->
+    <td align="left" width="25%">
       <img
         src="assets/profile-round.png"
         alt="Svetlana Fuks"
-        width="80"
+        width="120"
       />
+    </td>
+    <!-- Your title & skills on the right -->
+    <td valign="middle">
+      <h1>Data Analysis Portfolio</h1>
+      <p>### Technical skills: PostgreSQL, Python, R, BI tools</p>
     </td>
   </tr>
 </table>
