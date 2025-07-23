@@ -13,7 +13,6 @@
     <!-- Your title & skills on the right -->
     <td valign="middle">
       <h1>Data Analysis Portfolio</h1>
-      <p>### Technical skills: PostgreSQL, Python, R, BI tools</p>
     </td>
   </tr>
 </table>
