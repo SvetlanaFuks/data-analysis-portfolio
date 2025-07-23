@@ -20,4 +20,4 @@ Prešern Award for Master Thesis, Understanding Perspectives on the Gender Pay G
 
 ### Publications
 - BLOCKCHAIN-ENABLED MICRO CREDENTIALING: ENHANCING TRUST, MOBILITY, AND INTEROPERABILITY IN LIFELONG LEARNING (EDULEARN25 Proceedings · 2025)(https://library.iated.org/view/JUSIC2025BLO) 
-- METAVERSING THE CORPORATE STRATEGY: The opportunities and challenges of digital transformation (Casnik Finance, d. o. o. · 2022)(https://doi.org/your-link-here](https://plus.cobiss.net/cobiss/si/sl/bib/130387971)
+- METAVERSING THE CORPORATE STRATEGY: The opportunities and challenges of digital transformation (Casnik Finance, d. o. o. · 2022)(https://plus.cobiss.net/cobiss/si/sl/bib/130387971)
