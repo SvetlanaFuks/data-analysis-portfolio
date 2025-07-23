@@ -1,19 +1,3 @@
-<table width="100%">
-  <tr>
-    <td align="left" width="25%">
-      <img
-        src="https://raw.githubusercontent.com/SvetlanaFuks/data-analysis-portfolio/main/1729069720889.jpg"
-        alt="Svetlana Fuks"
-        width="120"
-        style="border-radius: 50%;"
-      />
-    </td>
-    <td valign="middle">
-      # Data Analysis Portfolio  
-    </td>
-  </tr>
-</table>
-
 # Data Analysis Portfolio
 ### Technical skills: PostgreSQL, Python, R, BI tools
 
@@ -35,5 +19,5 @@ Hi there! I’m Svetlana—a digital project delivery whiz, product-driven think
 Prešern Award for Master Thesis
 
 ### Publications
-- BLOCKCHAIN-ENABLED MICRO CREDENTIALING: ENHANCING TRUST, MOBILITY, AND INTEROPERABILITY IN LIFELONG LEARNING (EDULEARN25 Proceedings ·  2025 )
-- METAVERSING THE CORPORATE STRATEGY: The opportunities and challenges of digital transformation (Casnik Finance, d. o. o. ·  2022)
+- [BLOCKCHAIN-ENABLED MICRO CREDENTIALING: ENHANCING TRUST, MOBILITY, AND INTEROPERABILITY IN LIFELONG LEARNING (EDULEARN25 Proceedings · 2025)](https://library.iated.org/view/JUSIC2025BLO) 
+- [METAVERSING THE CORPORATE STRATEGY: The opportunities and challenges of digital transformation (Casnik Finance, d. o. o. · 2022)](https://doi.org/your-link-here](https://plus.cobiss.net/cobiss/si/sl/bib/130387971)
