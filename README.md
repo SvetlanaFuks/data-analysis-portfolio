@@ -1,6 +1,15 @@
 # Data Analysis Portfolio
 ### Technical skills: PostgreSQL, Python, R, BI tools
-![Profile Picture](https://github.com/SvetlanaFuks/data-analysis-portfolio/blob/main/1729069720889.jpg)
+<img
+  src="https://github.com/SvetlanaFuks/data-analysis-portfolio/raw/main/1729069720889.jpg"
+  alt="Svetlana Fuks"
+  style="
+    border-radius: 50%;
+    width: 80px;
+    float: right;
+    margin: 0 0 1em 1em;
+  "
+/>
 ### Work Experience
 - Market Research and BI Analyst @Arhea
 - Procurement Analyst @Novartis
