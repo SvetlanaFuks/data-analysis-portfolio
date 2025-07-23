@@ -1,4 +1,4 @@
-# data-analysis-portfolio
+# Svetlana-Fuks-data-analysis-portfolio
 
 ### Education 
 Master of Business and Organization Management,Technology&Innovation Management track
