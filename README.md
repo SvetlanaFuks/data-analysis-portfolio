@@ -1,26 +1,3 @@
----
-# If you use index.md, include YAML front‐matter so Jekyll renders it
-title: Data Analysis Portfolio
----
-
-<div style="display: flex; align-items: center; margin-bottom: 2rem;">
-  <img
-    src="https://raw.githubusercontent.com/SvetlanaFuks/data-analysis-portfolio/main/1729069720889.jpg"
-    alt="Svetlana Fuks"
-    style="
-      border-radius: 50%;
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
-      margin-right: 1rem;
-    "
-  />
-  <div>
-    # Data Analysis Portfolio  
-    ### Technical skills: PostgreSQL, Python, R, BI tools
-  </div>
-</div>
-
 # Data Analysis Portfolio
 ### Technical skills: PostgreSQL, Python, R, BI tools
 
@@ -39,7 +16,7 @@ Hi there! I’m Svetlana—a digital project delivery whiz, product-driven think
 
 
 ### Honors&Awards
-Prešern Award for Master Thesis, Understanding Perspectives on the Gender Pay Gap in the Tech Industry (https://plus.cobiss.net/cobiss/si/en/bib/167324163)
+Prešern Award for Master Thesis, [Understanding Perspectives on the Gender Pay Gap in the Tech Industry] (https://plus.cobiss.net/cobiss/si/en/bib/167324163)
 
 ### Publications
 - [BLOCKCHAIN-ENABLED MICRO CREDENTIALING: ENHANCING TRUST, MOBILITY, AND INTEROPERABILITY IN LIFELONG LEARNING (EDULEARN25 Proceedings · 2025)](https://library.iated.org/view/JUSIC2025BLO) 
