@@ -10,7 +10,6 @@
     </td>
     <td valign="middle">
       # Data Analysis Portfolio  
-      ### Technical skills: PostgreSQL, Python, R, BI tools
     </td>
   </tr>
 </table>
