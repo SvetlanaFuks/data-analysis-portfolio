@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 ### Technical skills: PostgreSQL, Python, R, BI tools
-![Profile Picture](main/1729069720889.jpg)
+![Profile Picture](data-analysis-portfolio/blob/main/1729069720889.jpg)
 ### Work Experience
 - Market Research and BI Analyst @Arhea
 - Procurement Analyst @Novartis
