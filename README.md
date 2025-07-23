@@ -3,7 +3,7 @@
 
 ### About me
 
-Hi there! I’m Svetlana—a digital project delivery whiz, product-driven thinker, and data detective. This portfolio is my playground for sharing hands‑on projects where I’ve blended user needs, market trends, and hard numbers into real‑world solutions. You’ll find everything from data analysis deep dives to agile product builds (with a sprinkle of humor, because why should charts be boring?). Grab a coffee, explore the projects, and let’s turn insights into impact!
+Hi there! <br> I’m Svetlana—a digital project delivery whiz, product-driven thinker, and data detective. This portfolio is my playground for sharing hands‑on projects where I’ve blended user needs, market trends, and hard numbers into real‑world solutions. You’ll find everything from data analysis deep dives to agile product builds (with a sprinkle of humor, because why should charts be boring?). <br> Grab a coffee, explore the projects, and let’s turn insights into impact!
 
 ### Work Experience
 - Market Research and BI Analyst @Arhea
