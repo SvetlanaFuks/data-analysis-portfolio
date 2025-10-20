@@ -100,7 +100,11 @@ import seaborn as sns
 # In[2]:
 
 
-df_invest = pd.read_csv("https://code.s3.yandex.net/datasets/cb_investments.zip", sep=';', low_memory=False)
+df_invest = pd.read_csv(
+    "https://raw.githubusercontent.com/SvetlanaFuks/data-analysis-portfolio/main/data/investments.csv",
+    sep=';',
+    low_memory=False
+)
 
 
 # In[3]:
@@ -153,8 +157,10 @@ print(df_invest_na_ratio)
 # In[6]:
 
 
-df_returns= pd.read_csv('https://code.s3.yandex.net/datasets/cb_returns.csv',index_col='year')
-
+df_returns = pd.read_csv(
+    "https://raw.githubusercontent.com/SvetlanaFuks/data-analysis-portfolio/main/data/cb_returns.csv",
+    index_col='year'
+)
 
 # In[7]:
 
